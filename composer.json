@@ -1,0 +1,7 @@
+{
+    "name": "madelineproto-railway",
+    "description": "MadelineProto on Railway",
+    "require": {
+        "danog/madelineproto": "^4.0"
+    }
+}
