@@ -1,4 +1,18 @@
 {
-    "name": "arhipnvkb/whatstyle",
-    "require": {}
+    "name": "zenya/whatstyle",
+    "description": "composer require danog/madelineproto",
+    "autoload": {
+        "psr-4": {
+            "Zenya\\Whatstyle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Архипов Женя",
+            "email": "arhipnvkb@gmail.com"
+        }
+    ],
+    "require": {
+        "danog/madelineproto": "^8.4"
+    }
 }
