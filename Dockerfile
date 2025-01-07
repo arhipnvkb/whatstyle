@@ -2,8 +2,7 @@
 FROM php:8.0-cli
 
 # 2. Устанавливаем необходимые зависимости
-
-	RUN nix-shell -p 'phpPackages.phpfileinfo' \
+RUN nix-shell -p 'phpPackages.phpfileinfo'
     git \
     unzip \
     libcurl4-openssl-dev \
