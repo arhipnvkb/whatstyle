@@ -197,8 +197,8 @@ class ComposerStaticInit78f9c729f27cb5a2ea9685ddb104bacf
         ),
         'Psr\\Http\\Message\\' => 
         array (
-            0 => __DIR__ . '/..' . '/psr/http-message/src',
-            1 => __DIR__ . '/..' . '/psr/http-factory/src',
+            0 => __DIR__ . '/..' . '/psr/http-factory/src',
+            1 => __DIR__ . '/..' . '/psr/http-message/src',
         ),
         'Prometheus\\' => 
         array (
@@ -222,9 +222,9 @@ class ComposerStaticInit78f9c729f27cb5a2ea9685ddb104bacf
         ),
         'League\\Uri\\' => 
         array (
-            0 => __DIR__ . '/..' . '/league/uri-interfaces',
-            1 => __DIR__ . '/..' . '/league/uri',
-            2 => __DIR__ . '/..' . '/league/uri-components',
+            0 => __DIR__ . '/..' . '/league/uri',
+            1 => __DIR__ . '/..' . '/league/uri-components',
+            2 => __DIR__ . '/..' . '/league/uri-interfaces',
         ),
         'Kelunik\\Certificate\\' => 
         array (

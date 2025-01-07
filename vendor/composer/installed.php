@@ -3,7 +3,7 @@
         'name' => 'zenya/whatstyle',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '8d5ee392e24184c7e4aa698dc6b36e4ae4f9b178',
+        'reference' => '27b8b562ddba2fcf49ff25e94463f188b0d40204',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -532,7 +532,7 @@
         'zenya/whatstyle' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '8d5ee392e24184c7e4aa698dc6b36e4ae4f9b178',
+            'reference' => '27b8b562ddba2fcf49ff25e94463f188b0d40204',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
