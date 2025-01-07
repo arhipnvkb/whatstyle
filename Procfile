@@ -1,1 +1,1 @@
-web: php -S 0.0.0.0:$PORT index.php
+web: php -S 0.0.0.0:3000 madeline.php
